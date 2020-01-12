@@ -1,0 +1,7 @@
+{
+  "name": "storage",
+  "connector": "loopback-component-storage",
+  "provider": "amazon",
+  "key": "5JxM4qO1MQhp1QubYREGHYqrKWk+CNCYgqzz/Xre",
+  "keyId": "AKIAJ5V567TVVTPBZX6Q"
+}
